@@ -1,7 +1,7 @@
 
 
 
-[![Proof HTML](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml/badge.svg)]()
+[![Proof HTML](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml)
 
 
 
