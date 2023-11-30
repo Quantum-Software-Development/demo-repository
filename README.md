@@ -9,7 +9,6 @@
 
 
 
-![Proof HTML](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
 
 ## AI
