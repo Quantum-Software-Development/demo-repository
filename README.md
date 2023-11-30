@@ -5,9 +5,6 @@
 [![Auto Assign](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/auto-assign.yml)
 
 
-## AI
-
-
 [![Auto Assign](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/auto-assign.yml)
 
 
