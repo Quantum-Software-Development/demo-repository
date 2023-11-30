@@ -3,21 +3,21 @@
 
 [![Proof HTML](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml/badge.svg)]()
 
-https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml 
-
-
 
 
 [![Auto Assign](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/auto-assign.yml)
 
 
-
-
 ![Proof HTML](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
 
+## AI
 
 ![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg) 
+
+
+https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml 
+
 
 
 
