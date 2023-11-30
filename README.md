@@ -1,7 +1,7 @@
 
 
 
-https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml/badge.svg
+![Proof HTML](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
 [![Auto Assign](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/auto-assign.yml)
 
