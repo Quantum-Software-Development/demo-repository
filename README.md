@@ -1,4 +1,7 @@
-![Auto Assign](https://github.com/Quantum Software Development/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+[![Auto Assign](https://github.com/Quantum Software Development/demo-repository/actions/workflows/auto-assign.yml/badge.svg)]
+
+
+
 
 https://github.com/Quantum-Software-Development/demo-repository
 
