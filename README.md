@@ -5,7 +5,7 @@
 [![Auto Assign](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/auto-assign.yml)
 
 
-[![Proof HTML](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml)
+[![Actions](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml)
 
 
 
