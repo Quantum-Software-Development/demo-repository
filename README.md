@@ -3,7 +3,7 @@
 
 [![Proof HTML](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml/badge.svg)]()
 
-](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg) 
+https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml 
 
 
 
