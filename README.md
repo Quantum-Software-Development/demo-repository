@@ -11,6 +11,12 @@
  1. Schrödinger Equation:
 
 $$i \hbar \frac{\partial \psi}{\partial t}=\hat{H} \psi$$
+
+#
+
+2. Dirac Equation:
+
+$$\left(i \gamma^\mu \partial_\mu-m\right) \psi=0$$
  
 
 
