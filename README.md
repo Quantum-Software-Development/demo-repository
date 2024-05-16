@@ -23,9 +23,12 @@ $$\left(i \gamma^\mu \partial_\mu-m\right) \psi=0$$
 3. Einstein's Field Equations:
    
 $$R_{\mu \nu}-\frac{1}{2} g_{\mu \nu} R+\Lambda g_{\mu \nu}=\frac{8 \pi G}{c^4} T_{\mu \nu}$$
- 
 
+#
 
+4. Navier-Stokes Equation:
+
+$$\rho\left(\frac{\partial \mathbf{u}}{\partial t}+\mathbf{u} \cdot \nabla \mathbf{u}\right)=-\nabla p+\mu \nabla^2 \mathbf{u}+\mathbf{f}$$
 
 
 
