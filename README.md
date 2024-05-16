@@ -1,11 +1,17 @@
 <br>
 
- ## Welcome to your organization's demo respository
+ ## Some Important Formula in Physics
  
-###This code "repo" is designed to demonstrate the best Quantum Formulas in Quantum Theory
 
-<--! The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency. -->
-<br>
+
+
+
+
+
+
+
+
+
 
 
 
