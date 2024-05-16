@@ -17,6 +17,12 @@ $$i \hbar \frac{\partial \psi}{\partial t}=\hat{H} \psi$$
 2. Dirac Equation:
 
 $$\left(i \gamma^\mu \partial_\mu-m\right) \psi=0$$
+
+#
+
+3. Einstein's Field Equations:
+   
+$$R_{\mu \nu}-\frac{1}{2} g_{\mu \nu} R+\Lambda g_{\mu \nu}=\frac{8 \pi G}{c^4} T_{\mu \nu}$$
  
 
 
