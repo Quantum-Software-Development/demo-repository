@@ -1,6 +1,10 @@
 <br>
 
- ## Some Important Formula in Physics
+ # Some Important Formula in Physics
+
+ 1. Schrödinger Equation:
+
+$$i \hbar \frac{\partial \psi}{\partial t}=\hat{H} \psi$$
  
 
 
