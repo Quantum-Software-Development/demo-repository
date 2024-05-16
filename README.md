@@ -2,6 +2,8 @@
 
  # Some Important Formula in Physics
 
+ <br>
+
  1. Schrödinger Equation:
 
 $$i \hbar \frac{\partial \psi}{\partial t}=\hat{H} \psi$$
@@ -49,6 +51,8 @@ $$
 \end{aligned}
 $$
 -->
+
+<br><br>
 
 #
 
