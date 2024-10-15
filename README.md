@@ -33,6 +33,30 @@ $$\rho\left(\frac{\partial \mathbf{u}}{\partial t}+\mathbf{u} \cdot \nabla \math
 
 
 
+## Read The Article
+
+Link ==> https://lnkd.in/e2eSCW33
+
+https://towardsdatascience.com/physics-informed-neural-networks-pinns-an-intuitive-guide-fff138069563
+
+𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧: The traditional Neural Network 𝗦𝗛𝗨𝗧 𝗜𝗧𝗦𝗘𝗟𝗙 𝗗𝗢𝗪𝗡 after ~1,200 steps because it stopped converging. All NN's self-terminate to keep themselves from running forever. It wasn't an oustside force! 😊 
+
+
+𝗙𝗿𝗼𝗺 𝘁𝗵𝗲 𝗔𝗿𝘁𝗶𝗰𝗹𝗲:
+
+If you’ve ever tried to read existing literature on physics informed neural networks (PINNs), it’s a tough read! Either lots of equations that for most people will be unfamiliar and assumptions that you are already an expert with all of the concepts, or too simplistic to gain a good understanding. This post aims to walk through PINNs in an intuitive way, and also suggests some improvements over current literature.
+
+Traditional physics model creation is a task of a domain expert, who parametrises physics models to best fit a system of interest. For example, creating a model of aircraft dynamics using equations of drag, lift, gravity, thrust, etc., and parametrising the model to attempt to closely match the model to a specific aircraft.
+
+The purely data-driven neural network approach is to attempt to learn the model using supervised learning with a neural network from data obtained from a specific system.
+
+Physics Informed Neural Networks (PINNs) lie at the intersection of the two. Using data-driven supervised neural networks to learn the model, but also using physics equations that are given to the model to encourage consistency with the known physics of the system. They have the advantage of being both data-driven to learn a model, but also able to ensure consistency with the physics, as well as being able to extrapolate accurately beyond the available data. As such, PINNs are able to generate more robust models, with less data.
+
+
+
+
+
+
 
 
 
