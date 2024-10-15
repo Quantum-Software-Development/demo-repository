@@ -33,9 +33,7 @@ $$\rho\left(\frac{\partial \mathbf{u}}{\partial t}+\mathbf{u} \cdot \nabla \math
 
 
 
-## Read The Article
-
-Link ==> https://lnkd.in/e2eSCW33
+## Read The Article Below
 
 https://towardsdatascience.com/physics-informed-neural-networks-pinns-an-intuitive-guide-fff138069563
 
