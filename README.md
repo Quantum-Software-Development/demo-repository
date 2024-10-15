@@ -37,6 +37,9 @@ $$\rho\left(\frac{\partial \mathbf{u}}{\partial t}+\mathbf{u} \cdot \nabla \math
 
 https://towardsdatascience.com/physics-informed-neural-networks-pinns-an-intuitive-guide-fff138069563
 
+![1728778232985](https://github.com/user-attachments/assets/0f466bc0-fb40-4cad-ba3d-4e8494745a53)
+
+
 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧: The traditional Neural Network 𝗦𝗛𝗨𝗧 𝗜𝗧𝗦𝗘𝗟𝗙 𝗗𝗢𝗪𝗡 after ~1,200 steps because it stopped converging. All NN's self-terminate to keep themselves from running forever. It wasn't an oustside force! 😊 
 
 
