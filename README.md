@@ -1,104 +1,115 @@
-<br>
+# **Great Minds of Quantum Computing**
 
- # <p align="center"> Some Important Formula in Physics
-
- ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
-
- <brr><br>
-
- #
-
- 1. Schrödinger Equation:
-
-$$i \hbar \frac{\partial \psi}{\partial t}=\hat{H} \psi$$
-
-#
-
-2. Dirac Equation:
-
-$$\left(i \gamma^\mu \partial_\mu-m\right) \psi=0$$
-
-#
-
-3. Einstein's Field Equations:
-   
-$$R_{\mu \nu}-\frac{1}{2} g_{\mu \nu} R+\Lambda g_{\mu \nu}=\frac{8 \pi G}{c^4} T_{\mu \nu}$$
-
-#
-
-4. Navier-Stokes Equation:
-
-$$\rho\left(\frac{\partial \mathbf{u}}{\partial t}+\mathbf{u} \cdot \nabla \mathbf{u}\right)=-\nabla p+\mu \nabla^2 \mathbf{u}+\mathbf{f}$$
+A tribute to some of the brightest minds who have shaped the field of quantum computing. This repository highlights their fundamental contributions, innovative concepts, and the formulas that made them famous.
 
 
 
-
-## Read The Article Below
-
-https://towardsdatascience.com/physics-informed-neural-networks-pinns-an-intuitive-guide-fff138069563
-
-![1728778232985](https://github.com/user-attachments/assets/0f466bc0-fb40-4cad-ba3d-4e8494745a53)
-
-
-𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧: The traditional Neural Network 𝗦𝗛𝗨𝗧 𝗜𝗧𝗦𝗘𝗟𝗙 𝗗𝗢𝗪𝗡 after ~1,200 steps because it stopped converging. All NN's self-terminate to keep themselves from running forever. It wasn't an oustside force! 😊 
+## 1. Richard Feynman
+![Richard Feynman](path/to/image/feynman.jpg)
+- **Formula**: \( S = \int \mathcal{L} \, dt \)
+- **Explanation**: Feynman introduced the concept of particle paths using the path integral to describe quantum mechanics. This approach revolutionized our understanding of quantum state evolution.
+- **Contribution**: Feynman is widely recognized for his innovative ideas in quantum physics, particularly regarding the simulation of quantum systems. He proposed that a quantum computer could simulate quantum phenomena that are inefficient for classical simulations.
 
 
-𝗙𝗿𝗼𝗺 𝘁𝗵𝗲 𝗔𝗿𝘁𝗶𝗰𝗹𝗲:
-
-If you’ve ever tried to read existing literature on physics informed neural networks (PINNs), it’s a tough read! Either lots of equations that for most people will be unfamiliar and assumptions that you are already an expert with all of the concepts, or too simplistic to gain a good understanding. This post aims to walk through PINNs in an intuitive way, and also suggests some improvements over current literature.
-
-Traditional physics model creation is a task of a domain expert, who parametrises physics models to best fit a system of interest. For example, creating a model of aircraft dynamics using equations of drag, lift, gravity, thrust, etc., and parametrising the model to attempt to closely match the model to a specific aircraft.
-
-The purely data-driven neural network approach is to attempt to learn the model using supervised learning with a neural network from data obtained from a specific system.
-
-Physics Informed Neural Networks (PINNs) lie at the intersection of the two. Using data-driven supervised neural networks to learn the model, but also using physics equations that are given to the model to encourage consistency with the known physics of the system. They have the advantage of being both data-driven to learn a model, but also able to ensure consistency with the physics, as well as being able to extrapolate accurately beyond the available data. As such, PINNs are able to generate more robust models, with less data.
+## 2. David Deutsch
+![David Deutsch](path/to/image/deutsch.jpg)
+- **Formula**: N/A (universal quantum computing model)
+- **Explanation**: Deutsch developed the theory of quantum computing, showing that a quantum computer can simulate any physical system. He advocates that quantum computing is a tangible reality, not just a theoretical concept.
+- **Contribution**: Deutsch is considered the father of quantum computing, having defined the concept of a universal quantum computer. His ideas paved the way for quantum algorithms and research into quantum technologies.
 
 
 
+## 3. Albert Einstein
+![Albert Einstein](path/to/image/einstein.jpg)
+- **Formula**: \( E_k = h \nu - \phi \)
+- **Explanation**: Einstein explained the photoelectric effect, where the energy of electrons is quantized, introducing the idea that light can behave both as a wave and as a particle.
+- **Contribution**: Although Einstein was skeptical about the interpretation of quantum mechanics, his fundamental discoveries, such as wave-particle duality and relativity, laid the groundwork for modern physics and influenced the understanding of quantum mechanics.
 
 
 
+## 4. Niels Bohr
+![Niels Bohr](path/to/image/bohr.jpg)
+- **Formula**: \( E_n = -\frac{Z^2 R_H}{n^2} \)
+- **Explanation**: Bohr's model of the hydrogen atom revolutionized physics by quantizing the energy levels of the electron.
+- **Contribution**: Bohr was instrumental in developing quantum theory and proposed the principle of complementarity, which suggests that quantum phenomena can be described by different models depending on the experiment.
+
+
+## 5. Werner Heisenberg
+![Werner Heisenberg](path/to/image/heisenberg.jpg)
+- **Formula**: \( \Delta x \Delta p \geq \frac{\hbar}{2} \)
+- **Explanation**: Heisenberg's uncertainty principle establishes fundamental limits on the precision with which we can know a particle's position and momentum.
+- **Contribution**: Heisenberg introduced matrix mechanics, which was one of the first approaches to quantum mechanics. His view that we cannot simultaneously know certain properties of a particle changed how we interpret quantum nature.
+
+---
+
+## 6. Erwin Schrödinger
+![Erwin Schrödinger](path/to/image/schrodinger.jpg)
+- **Formula**: \( i \hbar \frac{\partial}{\partial t} \psi = \hat{H} \psi \)
+- **Explanation**: Schrödinger's equation is fundamental to quantum mechanics, describing how the quantum state of a system evolves over time.
+- **Contribution**: Schrödinger is known for his contributions to quantum mechanics, especially for introducing the wave function, which provides a probabilistic description of particle behavior.
 
 
 
+## 7. Paul Dirac
+![Paul Dirac](path/to/image/dirac.jpg)
+- **Formula**: \( (i \gamma^\mu \partial_\mu - m)\psi = 0 \)
+- **Explanation**: Dirac's equation unified quantum mechanics and relativity, predicting the existence of antiparticles and laying the foundation for quantum field theory.
+- **Contribution**: Dirac is famous for his work that established the basis of quantum field theory, connecting quantum mechanics with relativity, and for predicting the existence of positrons, the electron's antiparticle.
 
+---
 
+## 8. John von Neumann
+![John von Neumann](path/to/image/von_neumann.jpg)
+- **Formula**: \( \langle \psi | \hat{A} | \psi \rangle \)
+- **Explanation**: Von Neumann formulated the mathematical foundation of quantum mechanics and introduced the measurement theory, which became fundamental to understanding wave function collapse.
+- **Contribution**: He is known for his work on the mathematical interpretation of quantum mechanics, especially formalizing quantum states and measurements.
 
+---
 
-<!--
-#  Quantum Formulas
+## 9. John Bell
+![John Bell](path/to/image/bell.jpg)
+- **Formula**: \( |E(a, b) + E(a, b') + E(a, b) - E(a', b')| \leq 2 \)
+- **Explanation**: Bell's inequality is a crucial tool for testing quantum mechanics and exploring non-locality and quantum entanglement.
+- **Contribution**: Bell formulated his famous inequality to show that quantum mechanics predicts correlations between particles that cannot be explained by local theories, leading to important experiments on entanglement.
 
-<!-- Image Source
-<img src="https://cdn.mathpix.com/snip/images/1yR5I5WYTqwCuw-i6JfwzwKd9RW2O_8HLfRp1j4w38Y.original.fullsize.png"/>  
- 
-### <p align="center">  
-$$
-\begin{aligned}
-& S=\frac{\left(v^2-v_0{ }^2\right)}{2 a} \quad \Delta U=A+Q \quad F=\frac{G M m}{R^2} \quad X=x m a x \cdot \cos \omega t \quad Q=\lambda m \\
-& N=N_0 2^{-t / \pi} \quad A=F S \cos \alpha \quad P=\frac{F}{S} \quad \Delta d=\frac{(2 k+1) \lambda}{2} \quad \phi=\frac{P}{P_0 \cdot 100 \%} \\
-& v_2=\frac{\left(v_1+v\right)}{1+v_1 v / c^2} \quad T=2 \pi \sqrt{L C} \quad P=I U \\
-& E=\frac{m v^2}{2} \quad \eta=\frac{\left(Q_1-Q_2\right)}{Q_1} \\
-& F=m g \\
-& t=\frac{t_1}{\sqrt{1}}-\frac{v^2}{c^2} \quad \lambda=v T \\
-& Z=\sqrt{(X c-X L)^2+R^2} \\
-& E=2 \pi k \sigma \\
-& Q=C\left(T_2-T_1\right) \\
-& F=\rho g V \\
-& P=m(g+a) \\
-& F=\frac{k q_1 q_2}{R_2} \\
-& \frac{V}{T}=\text { const } \\
-& \rho=\frac{m}{V} \\
-& F y=-k x \\
-& d \cdot \sin \phi=k \lambda \\
-& d \cdot \sin \phi=k \lambda \quad v=v_0+a t \quad E=m c^2
-&
-\end{aligned}
-$$
--->
+---
 
-<br><br>
+## 10. Peter Shor
+![Peter Shor](path/to/image/shor.jpg)
+- **Formula**: N/A (factorization algorithm)
+- **Explanation**: Shor's algorithm is a groundbreaking discovery that enables the efficient factorization of integers, challenging the security of current cryptographic systems.
+- **Contribution**: Shor is one of the pioneers in using quantum algorithms to solve complex computational problems, leading to a new field of research in applied quantum computing.
 
-#
+---
 
-### <p align="center"> [![Proof HTML](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/proof-html.yml) [![Auto Assign](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/Quantum-Software-Development/demo-repository/actions/workflows/auto-assign.yml)
+## 11. Lov Grover
+![Lov Grover](path/to/image/grover.jpg)
+- **Formula**: N/A (search algorithm)
+- **Explanation**: Grover developed an algorithm that accelerates search in unsorted databases, reducing time complexity from \( O(N) \) to \( O(\sqrt{N}) \).
+- **Contribution**: Grover's algorithm is a milestone in quantum computing, demonstrating that searching data can be dramatically accelerated through quantum techniques.
 
+---
+
+## 12. Claude Shannon
+![Claude Shannon](path/to/image/shannon.jpg)
+- **Formula**: \( H(X) = -\sum p(x) \log p(x) \)
+- **Explanation**: Shannon is regarded as the father of information theory, introducing the concept of entropy as a measure of the amount of information in a message.
+- **Contribution**: His theories laid the groundwork for digital communication and cryptography, also influencing research in quantum computing regarding information transmission.
+
+---
+
+## 13. Alexander Holevo
+![Alexander Holevo](path/to/image/holevo.jpg)
+- **Formula**: \( I(X:Y) \leq S(\rho) \)
+- **Explanation**: Holevo's bound establishes limits on the information that can be extracted from a quantum system, influencing the development of quantum communication protocols.
+- **Contribution**: Holevo significantly contributed to quantum information theory, establishing foundations for understanding the potential of quantum communication and data compression.
+
+---
+
+## Contributions and References
+
+This repository is a tribute to these great thinkers who have shaped physics and quantum computing. Their ideas and theories continue to inspire new generations of scientists and innovators.
+
+## How to Contribute
+
+Feel free to add information or corrections. This repository encourages contributions from everyone interested in quantum computing!
