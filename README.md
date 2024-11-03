@@ -4,14 +4,12 @@
  <br>
 
 
-# <p align="center"> **Great Minds of Quantum Computing**
+# <p align="center"> 🧠 **Great Minds of Quantum Computing**
 
 A tribute to some of the brightest minds who have shaped the field of quantum computing. This repository highlights their fundamental contributions, innovative concepts, and the formulas that made them famous.
 
  <br>
 
-
-# **Great Minds in Quantum Computing** 🔮
 
 1. **Max Planck** (1900) 🌌  
    - **Formula**: \( E = h \nu \)  
