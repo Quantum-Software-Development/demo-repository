@@ -131,3 +131,8 @@ Este repositório é uma homenagem a esses grandes pensadores que moldaram a fí
 ## Como Contribuir
 
 Sinta-se à vontade para adicionar informações ou correções.
+
+
+#
+
+###### <p align="center"> Copyright 2024 Quantum Software Development. Code released under the [MIT license.](https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
