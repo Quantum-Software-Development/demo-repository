@@ -8,6 +8,12 @@
 
 A tribute to some of the brightest minds who have shaped the field of quantum computing. This repository highlights their fundamental contributions, innovative concepts, and the formulas that made them famous.
 
+<br><br>
+
+<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+
  <br>
 
 
