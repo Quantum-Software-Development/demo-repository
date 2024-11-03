@@ -37,6 +37,20 @@ Aqui está a lista completa com as explicações de cada contribuição:
    - **Fórmula**: \( \Delta x \Delta p \geq \frac{\hbar}{2} \)  
    - **Explicação**: O princípio da incerteza afirma que não é possível determinar simultaneamente a posição e o momento de uma partícula com precisão absoluta.
    - **Contribuição**: Esse princípio mudou a interpretação da natureza quântica, mostrando que o comportamento das partículas é indeterminado até ser medido.
+  
+     <br>
+
+## 5.Erwin Schrödinger (1926) 🐈
+
+![Erwin Schrödinger](path/to/image/schrodinger.jpg)
+
+   - **Formula**: \( i \hbar \frac{\partial}{\partial t} \psi = \hat{H} \psi \)
+   - **Explanation**: Schrödinger’s equation is fundamental to quantum mechanics, describing how the quantum state of a system evolves over time. Schrödinger is also famous for his thought experiment known as **Schrödinger's cat**, where a hypothetical cat can be in both "alive" and "dead" states simultaneously until observed. This experiment illustrates the concept of quantum superposition and highlights the paradoxes in interpreting quantum mechanics.
+   - **Contribution**: Schrödinger is known for his contribution to quantum mechanics theory, particularly through introducing the wave function, which provides a probabilistic description of particle behavior.
+
+   <br>
+
+Let me know if you’d like any additional changes!
 
 5. **Erwin Schrödinger** (1926)  
    - **Fórmula**: \( i \hbar \frac{\partial}{\partial t} \psi = \hat{H} \psi \)  
