@@ -12,115 +12,83 @@ Uma homenagem a algumas das mentes mais brilhantes que moldaram o campo da compu
 
 <br>
 
-## 1. Richard Feynman
-![Richard Feynman](caminho/para/imagem/feynman.jpg)
-- **Fórmula**: \( S = \int \mathcal{L} \, dt \)
-- **Explicação**: Feynman introduziu o conceito de trajetória de partículas, usando a integral de caminho para descrever a mecânica quântica. Essa abordagem revolucionou a forma como entendemos a evolução do estado quântico.
-- **Contribuição**: Feynman é amplamente reconhecido por suas ideias inovadoras em física quântica, especialmente no que diz respeito à simulação de sistemas quânticos. Ele propôs que um computador quântico poderia simular fenômenos quânticos que são ineficientes para simulações clássicas.
-
+Aqui está a lista completa com as explicações de cada contribuição:
 
 <br>
 
-## 2. David Deutsch
-![David Deutsch](caminho/para/imagem/deutsch.jpg)
-- **Fórmula**: N/A (modelo de computação quântica universal)
-- **Explicação**: Deutsch desenvolveu a teoria da computação quântica, mostrando que um computador quântico pode simular qualquer sistema físico. Ele é um defensor de que a computação quântica é uma realidade tangível e não apenas um conceito teórico.
-- **Contribuição**: Deutsch é considerado o pai da computação quântica, tendo definido o conceito de um computador quântico universal. Suas ideias abriram caminho para algoritmos quânticos e a pesquisa em tecnologias quânticas.
+# **Grandes Nomes da Computação Quântica**
 
+1. **Max Planck** (1900)  
+   - **Fórmula**: \( E = h \nu \)  
+   - **Explicação**: Planck introduziu a ideia de que a energia é emitida em quantidades discretas, chamadas "quanta." Sua teoria foi o primeiro passo para a física quântica moderna.
+   - **Contribuição**: Considerado o "pai da teoria quântica," sua descoberta inaugurou a era da física quântica.
 
-<br>
+2. **Albert Einstein** (1905)  
+   - **Fórmula**: \( E_k = h \nu - \phi \)  
+   - **Explicação**: Através da explicação do efeito fotoelétrico, Einstein propôs que a luz pode ser vista como partículas (fótons) com energia quantizada, desafiando a visão clássica de que a luz era apenas uma onda.
+   - **Contribuição**: Suas ideias sobre a dualidade onda-partícula foram essenciais para o desenvolvimento da física moderna e fundamentaram o estudo da mecânica quântica.
 
-## 3. Albert Einstein
-![Albert Einstein](caminho/para/imagem/einstein.jpg)
-- **Fórmula**: \( E_k = h \nu - \phi \)
-- **Explicação**: Einstein explicou o efeito fotoelétrico, onde a energia dos elétrons é quantizada, introduzindo a ideia de que a luz pode se comportar tanto como onda quanto como partícula.
-- **Contribuição**: Embora Einstein tenha sido cético em relação à interpretação da mecânica quântica, suas descobertas fundamentais, como a dualidade onda-partícula e a relatividade, estabeleceram as bases para o desenvolvimento da física moderna e influenciaram a compreensão da mecânica quântica.
+3. **Niels Bohr** (1913)  
+   - **Fórmula**: \( E_n = -\frac{Z^2 R_H}{n^2} \)  
+   - **Explicação**: O modelo de Bohr descreveu os níveis de energia quantizados dos elétrons nos átomos, especificamente no hidrogênio.
+   - **Contribuição**: Sua teoria foi uma grande evolução para a física atômica e, mais tarde, levou ao desenvolvimento do conceito de complementaridade na mecânica quântica.
 
-<br>
+4. **Werner Heisenberg** (1927)  
+   - **Fórmula**: \( \Delta x \Delta p \geq \frac{\hbar}{2} \)  
+   - **Explicação**: O princípio da incerteza afirma que não é possível determinar simultaneamente a posição e o momento de uma partícula com precisão absoluta.
+   - **Contribuição**: Esse princípio mudou a interpretação da natureza quântica, mostrando que o comportamento das partículas é indeterminado até ser medido.
 
-## 4. Niels Bohr
-![Niels Bohr](caminho/para/imagem/bohr.jpg)
-- **Fórmula**: \( E_n = -\frac{Z^2 R_H}{n^2} \)
-- **Explicação**: O modelo de Bohr para o átomo de hidrogênio revolucionou a física ao quantizar os níveis de energia do elétron.
-- **Contribuição**: Bohr foi fundamental para o desenvolvimento da teoria quântica e propôs o princípio da complementaridade, que sugere que fenômenos quânticos podem ser descritos por diferentes modelos dependendo do experimento.
+5. **Erwin Schrödinger** (1926)  
+   - **Fórmula**: \( i \hbar \frac{\partial}{\partial t} \psi = \hat{H} \psi \)  
+   - **Explicação**: A equação de Schrödinger descreve a evolução temporal do estado quântico de um sistema, permitindo calcular a probabilidade de encontrar uma partícula em um determinado estado.
+   - **Contribuição**: Introduziu o conceito de função de onda, essencial para o entendimento probabilístico da mecânica quântica.
 
+6. **Paul Dirac** (1928)  
+   - **Fórmula**: \( (i \gamma^\mu \partial_\mu - m)\psi = 0 \)  
+   - **Explicação**: A equação de Dirac unifica a mecânica quântica e a teoria da relatividade, prevendo a existência de antipartículas, como o pósitron.
+   - **Contribuição**: Pioneiro na teoria quântica de campos e um dos primeiros a propor uma relação entre a mecânica quântica e a relatividade.
 
-<br>
+7. **John von Neumann** (1932)  
+   - **Fórmula**: \( \langle \psi | \hat{A} | \psi \rangle \)  
+   - **Explicação**: Von Neumann estabeleceu a base matemática da mecânica quântica, incluindo a teoria da medida e o conceito de operadores.
+   - **Contribuição**: Formalizou a teoria quântica, especialmente a descrição dos estados quânticos e a interpretação matemática do colapso da função de onda.
 
-## 5. Werner Heisenberg
-![Werner Heisenberg](caminho/para/imagem/heisenberg.jpg)
-- **Fórmula**: \( \Delta x \Delta p \geq \frac{\hbar}{2} \)
-- **Explicação**: O princípio da incerteza de Heisenberg estabelece limites fundamentais à precisão com que podemos conhecer a posição e o momento de uma partícula.
-- **Contribuição**: Heisenberg introduziu a mecânica matricial, que foi uma das primeiras abordagens da mecânica quântica. Sua visão de que não podemos conhecer simultaneamente certas propriedades de uma partícula mudou a forma como interpretamos a natureza quântica.
+8. **Claude Shannon** (1948)  
+   - **Fórmula**: \( H(X) = -\sum p(x) \log p(x) \)  
+   - **Explicação**: Shannon é conhecido como o pai da teoria da informação, introduzindo o conceito de entropia como medida da informação em uma mensagem.
+   - **Contribuição**: Suas ideias formaram a base para a comunicação digital e influenciaram a pesquisa em comunicação e transmissão de informação quântica.
 
+9. **Richard Feynman** (1948-1981)  
+   - **Fórmula**: \( S = \int \mathcal{L} \, dt \)  
+   - **Explicação**: Feynman desenvolveu a integral de caminho, uma abordagem alternativa para descrever a mecânica quântica através de trajetórias.
+   - **Contribuição**: Propôs a ideia de um computador quântico que simula fenômenos quânticos, marcando o início da computação quântica.
 
-<br>
+10. **David Deutsch** (1985)  
+   - **Fórmula**: N/A  
+   - **Explicação**: Deutsch formalizou a ideia de um computador quântico universal, capaz de simular qualquer sistema físico.
+   - **Contribuição**: Seu trabalho é considerado a base da computação quântica moderna, inspirando o desenvolvimento de algoritmos quânticos.
 
-## 6. Erwin Schrödinger
-![Erwin Schrödinger](caminho/para/imagem/schrodinger.jpg)
-- **Fórmula**: \( i \hbar \frac{\partial}{\partial t} \psi = \hat{H} \psi \)
-- **Explicação**: A equação de Schrödinger é fundamental para a mecânica quântica, descrevendo como o estado quântico de um sistema evolui ao longo do tempo.
-- **Contribuição**: Schrödinger é conhecido por sua contribuição à teoria da mecânica quântica, especialmente pela introdução da função de onda, que fornece uma descrição probabilística do comportamento das partículas.
+11. **John Bell** (1964)  
+   - **Fórmula**: \( |E(a, b) + E(a, b') + E(a, b) - E(a', b')| \leq 2 \)  
+   - **Explicação**: A desigualdade de Bell testa se as correlações observadas entre partículas emaranhadas podem ser explicadas por teorias locais.
+   - **Contribuição**: A desigualdade de Bell foi fundamental para experimentos que verificaram o entrelaçamento quântico e a não-localidade.
 
+12. **Alexander Holevo** (1973)  
+   - **Fórmula**: \( I(X:Y) \leq S(\rho) \)  
+   - **Explicação**: O limite de Holevo descreve o limite máximo de informação que pode ser extraído de um sistema quântico.
+   - **Contribuição**: Essencial para a teoria da informação quântica, com implicações em criptografia e transmissão de dados quânticos.
 
-<br>
+13. **Peter Shor** (1994)  
+   - **Fórmula**: N/A  
+   - **Explicação**: O algoritmo de Shor permite a fatoração eficiente de grandes números, ameaçando a segurança de sistemas criptográficos tradicionais.
+   - **Contribuição**: Primeiro algoritmo quântico a resolver problemas complexos com eficiência superior à de algoritmos clássicos.
 
-## 7. Paul Dirac
-![Paul Dirac](caminho/para/imagem/dirac.jpg)
-- **Fórmula**: \( (i \gamma^\mu \partial_\mu - m)\psi = 0 \)
-- **Explicação**: A equação de Dirac uniu a mecânica quântica e a relatividade, prevendo a existência de antipartículas e fundamentando a teoria do campo quântico.
-- **Contribuição**: Dirac é famoso por seu trabalho que lançou as bases da teoria quântica de campos, conectando a mecânica quântica com a relatividade, e por prever a existência de positrões, a antipartícula do elétron.
+14. **Lov Grover** (1996)  
+   - **Fórmula**: N/A  
+   - **Explicação**: O algoritmo de Grover melhora a eficiência da busca em bases de dados, reduzindo o tempo de pesquisa de \( O(N) \) para \( O(\sqrt{N}) \).
+   - **Contribuição**: Demonstra como a computação quântica pode ser aplicada para resolver problemas de pesquisa de dados de forma mais rápida que a computação clássica.
 
-<br>
-
-## 8. John von Neumann
-![John von Neumann](caminho/para/imagem/von_neumann.jpg)
-- **Fórmula**: \( \langle \psi | \hat{A} | \psi \rangle \)
-- **Explicação**: Von Neumann formulou a base matemática da mecânica quântica e introduziu a teoria da medida, que se tornou fundamental para o entendimento do colapso da função de onda.
-- **Contribuição**: Ele é conhecido por seus trabalhos sobre a interpretação matemática da mecânica quântica, especialmente a formalização dos estados quânticos e das medições.
-
-<br>
-
-## 9. John Bell
-![John Bell](caminho/para/imagem/bell.jpg)
-- **Fórmula**: \( |E(a, b) + E(a, b') + E(a, b) - E(a', b')| \leq 2 \)
-- **Explicação**: A desigualdade de Bell é uma ferramenta crucial para testar a mecânica quântica e explorar a não-localidade e o entrelaçamento quântico.
-- **Contribuição**: Bell formulou sua famosa desigualdade para mostrar que a mecânica quântica prevê correlações entre partículas que não podem ser explicadas por teorias locais, o que levou a importantes experimentos sobre entrelaçamento.
-
-
-<br>
-
-## 10. Peter Shor
-![Peter Shor](caminho/para/imagem/shor.jpg)
-- **Fórmula**: N/A (algoritmo de fatoração)
-- **Explicação**: O algoritmo de Shor é uma descoberta revolucionária que permite a fatoração eficiente de números inteiros, desafiando a segurança dos sistemas criptográficos atuais.
-- **Contribuição**: Shor é um dos pioneiros no uso de algoritmos quânticos para resolver problemas computacionais complexos, levando a um novo campo de pesquisa na computação quântica aplicada.
-
-
-<br>
-
-## 11. Lov Grover
-![Lov Grover](caminho/para/imagem/grover.jpg)
-- **Fórmula**: N/A (algoritmo de busca)
-- **Explicação**: Grover desenvolveu um algoritmo que acelera a busca em bases de dados não ordenadas, reduzindo a complexidade de tempo de \( O(N) \) para \( O(\sqrt{N}) \).
-- **Contribuição**: O algoritmo de Grover é um marco no campo da computação quântica, demonstrando que a busca em dados pode ser drasticamente acelerada por meio de técnicas quânticas.
-
-
-<br>
-
-## 12. Claude Shannon
-![Claude Shannon](caminho/para/imagem/shannon.jpg)
-- **Fórmula**: \( H(X) = -\sum p(x) \log p(x) \)
-- **Explicação**: Shannon é considerado o pai da teoria da informação, introduzindo o conceito de entropia como uma medida da quantidade de informação em uma mensagem.
-- **Contribuição**: Suas teorias formaram a base da comunicação digital e da criptografia, influenciando também a pesquisa em computação quântica em termos de transmissão de informação.
-
-
-<br>
-## 13. Alexander Holevo
-![Alexander Holevo](caminho/para/imagem/holevo.jpg)
-- **Fórmula**: \( I(X:Y) \leq S(\rho) \)
-- **Explicação**: O limite de Holevo estabelece os limites da informação que pode ser extraída de um sistema quântico, influenciando o desenvolvimento de protocolos quânticos de comunicação.
-- **Contribuição**: Holevo contribuiu significativamente para a teoria da informação quântica, estabelecendo bases para entender o potencial da comunicação quântica e a compressão de dados.
+---
 
 <br>
 
