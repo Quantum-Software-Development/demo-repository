@@ -4,13 +4,14 @@
  <br>
 
 
-# **Great Minds of Quantum Computing**
+# <p align="center"> **Great Minds of Quantum Computing**
 
 A tribute to some of the brightest minds who have shaped the field of quantum computing. This repository highlights their fundamental contributions, innovative concepts, and the formulas that made them famous.
 
  <br>
 
 ## 1. Richard Feynman
+
 ![Richard Feynman](path/to/image/feynman.jpg)
 - **Formula**: \( S = \int \mathcal{L} \, dt \)
 - **Explanation**: Feynman introduced the concept of particle paths using the path integral to describe quantum mechanics. This approach revolutionized our understanding of quantum state evolution.
@@ -120,4 +121,9 @@ This repository is a tribute to these great thinkers who have shaped physics and
 
 ## How to Contribute
 
-Feel free to add information or corrections. This repository encourages contributions from everyone interested in quantum computing!
+Feel free to add information or corrections. This repository encourages contributions from everyone interested in Quantum Computing!
+
+
+#
+
+###### <p align="center"> Copyright 2024 Quantum Software Development. Code released under the [MIT license.](https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
