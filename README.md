@@ -30,11 +30,20 @@ A tribute to some of the brightest minds who have shaped the field of quantum co
    - **Formula**: \( \Delta x \Delta p \geq \frac{\hbar}{2} \)  
    - **Explanation**: The uncertainty principle states that it is impossible to simultaneously determine a particle’s position and momentum with absolute precision.
    - **Contribution**: This principle reshaped our understanding of quantum nature, showing that particle behavior remains indeterminate until observed.
+  
+    <br>
 
-5. **Erwin Schrödinger** (1926) 🐈  
-   - **Formula**: \( i \hbar \frac{\partial}{\partial t} \psi = \hat{H} \psi \)  
-   - **Explanation**: Schrödinger's equation describes the time evolution of a quantum system's state, helping calculate the probability of finding a particle in a certain state.
-   - **Contribution**: Introduced the wave function, essential for the probabilistic understanding of quantum mechanics.
+## 5.Erwin Schrödinger (1926) 🐈
+
+![Erwin Schrödinger](path/to/image/schrodinger.jpg)
+
+   - **Formula**: $\( i \hbar \frac{\partial}{\partial t} \psi = \hat{H} \psi \)$
+   - **Explanation**: Schrödinger’s equation is fundamental to quantum mechanics, describing how the quantum state of a system evolves over time. Schrödinger is also famous for his thought experiment known as **Schrödinger's cat**, where a hypothetical cat can be in both "alive" and "dead" states simultaneously until observed. This experiment illustrates the concept of quantum superposition and highlights the paradoxes in interpreting quantum mechanics.
+   - **Contribution**: Schrödinger is known for his contribution to quantum mechanics theory, particularly through introducing the wave function, which provides a probabilistic description of particle behavior.
+
+---
+
+Let me know if you’d like any additional changes!
 
 6. **Paul Dirac** (1928) ➕➖  
    - **Formula**: \( (i \gamma^\mu \partial_\mu - m)\psi = 0 \)  
