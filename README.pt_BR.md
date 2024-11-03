@@ -1,4 +1,7 @@
+ \[**[🇧🇷 Português](README.pt_BR.md)**\] \[[🇺🇸 English](README.md)\]
 
+ <!--  START HEADER  -->   
+ 
 <br>
 
 # **Grandes Nomes da Computação Quântica**
