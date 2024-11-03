@@ -56,7 +56,7 @@ A tribute to some of the brightest minds who have shaped the field of quantum co
 
    - **Formula**:
      
-     $\color{Green} {\color{green} {\large  i \hbar \frac{\partial}{\partial t} \psi = \hat{H} \psi }}$
+     $\color{Green} {\color{Green} {\huge  i \hbar \frac{\partial}{\partial t} \psi = \hat{H} \psi }}$
      
    - **Explanation**: Schrödinger’s equation is fundamental to quantum mechanics, describing how the quantum state of a system evolves over time. Schrödinger is also famous for his thought experiment known as **Schrödinger's cat**, where a hypothetical cat can be in both "alive" and "dead" states simultaneously until observed. This experiment illustrates the concept of quantum superposition and highlights the paradoxes in interpreting quantum mechanics.
      
